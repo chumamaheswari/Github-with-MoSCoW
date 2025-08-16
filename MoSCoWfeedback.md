@@ -44,3 +44,5 @@
 ## References
 - Product Prioritization Frameworks. (2022, February 23). *Productboard*. https://www.productboard.com/glossary/product-prioritization-frameworks/  
 - The Ultimate Guide to Product Prioritization + 8 Frameworks. (n.d.). *Product School*. https://productschool.com/blog/product-fundamentals/ultimate-guide-product-prioritization  
+
+![MoSCoW Matrix Diagram](Photos/moscow.png)
